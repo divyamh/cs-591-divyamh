@@ -1,0 +1,11 @@
+Q1: JSON object             3/5 (infinite loop)
+Q2: 1/1/2015 creation_dates 2/5 (need to get more pages while has_more)
+Q3: question_dataframe.csv  10/10
+Q4: Users distance matrix   15/30 (KeyError)
+Q5: Users plt               10/10
+Q6: Timeseries              30/30
+Q7: Timeseries plt          10/10 (for the dissimilar tags, it seems that if you normalized the number of questions and did DTW, it might not be so dissimilar!)
+
+Total:                      80/100
+
+commit 05625f37d45c427ecc85458cd276ba5da738a48f
