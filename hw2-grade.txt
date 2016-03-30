@@ -1,0 +1,10 @@
+Q1. (review score comparison) :         15/20 (lexicon not stemmed)
+Q2. (visualization and analysis) :      5/10 (very inconclusive choice of visaulization)
+Q3. (clustering) :                      30/30
+Q4. (cluster visualization) :           15/15
+Q5. (outlier detection) :               0/15
+Q6. (analysis) :                        10/10
+
+Late Penalty (if any) :
+
+Total :                                 75/100
