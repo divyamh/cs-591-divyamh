@@ -1,0 +1,1066 @@
+HOTEL NAME: Omni Parker House
+Excellent REVIEWS: 2,495
+Very Good REVIEWS: 1,722 
+Average REVIEWS: 689 
+Poor REVIEWS: 292
+Terrible REVIEWS: 148 
+Family REVIEWS: 1156 
+Couple REVIEWS: 1753 
+Solo REVIEWS: 282 
+Business REVIEWS: 1322 
+Friends REVIEWS: 421 
+Average Review Rating: 4.145529 
+
+HOTEL NAME: Hyatt Regency Boston Harbor
+Excellent REVIEWS: 742
+Very Good REVIEWS: 541 
+Average REVIEWS: 190 
+Poor REVIEWS: 83
+Terrible REVIEWS: 41 
+Family REVIEWS: 355 
+Couple REVIEWS: 458 
+Solo REVIEWS: 132 
+Business REVIEWS: 454 
+Friends REVIEWS: 84 
+Average Review Rating: 4.164684 
+
+HOTEL NAME: Seaport Boston Hotel
+Excellent REVIEWS: 2,630
+Very Good REVIEWS: 625 
+Average REVIEWS: 106 
+Poor REVIEWS: 46
+Terrible REVIEWS: 35 
+Family REVIEWS: 601 
+Couple REVIEWS: 770 
+Solo REVIEWS: 123 
+Business REVIEWS: 1568 
+Friends REVIEWS: 197 
+Average Review Rating: 4.676060 
+
+HOTEL NAME: Hotel Commonwealth
+Excellent REVIEWS: 2,828
+Very Good REVIEWS: 505 
+Average REVIEWS: 101 
+Poor REVIEWS: 44
+Terrible REVIEWS: 18 
+Family REVIEWS: 1110 
+Couple REVIEWS: 1016 
+Solo REVIEWS: 168 
+Business REVIEWS: 702 
+Friends REVIEWS: 208 
+Average Review Rating: 4.739416 
+
+HOTEL NAME: The Westin Copley Place
+Excellent REVIEWS: 1,316
+Very Good REVIEWS: 935 
+Average REVIEWS: 314 
+Poor REVIEWS: 111
+Terrible REVIEWS: 44 
+Family REVIEWS: 673 
+Couple REVIEWS: 573 
+Solo REVIEWS: 113 
+Business REVIEWS: 920 
+Friends REVIEWS: 197 
+Average Review Rating: 4.238235 
+
+HOTEL NAME: Revere Hotel Boston Common
+Excellent REVIEWS: 1,315
+Very Good REVIEWS: 719 
+Average REVIEWS: 224 
+Poor REVIEWS: 52
+Terrible REVIEWS: 25 
+Family REVIEWS: 533 
+Couple REVIEWS: 754 
+Solo REVIEWS: 91 
+Business REVIEWS: 403 
+Friends REVIEWS: 309 
+Average Review Rating: 4.390578 
+
+HOTEL NAME: Sheraton Boston Hotel
+Excellent REVIEWS: 424
+Very Good REVIEWS: 450 
+Average REVIEWS: 146 
+Poor REVIEWS: 35
+Terrible REVIEWS: 40 
+Family REVIEWS: 238 
+Couple REVIEWS: 247 
+Solo REVIEWS: 36 
+Business REVIEWS: 410 
+Friends REVIEWS: 93 
+Average Review Rating: 4.080365 
+
+HOTEL NAME: InterContinental Boston
+Excellent REVIEWS: 1,588
+Very Good REVIEWS: 617 
+Average REVIEWS: 153 
+Poor REVIEWS: 60
+Terrible REVIEWS: 53 
+Family REVIEWS: 527 
+Couple REVIEWS: 851 
+Solo REVIEWS: 137 
+Business REVIEWS: 664 
+Friends REVIEWS: 192 
+Average Review Rating: 4.467827 
+
+HOTEL NAME: Nine Zero Hotel - a Kimpton Hotel
+Excellent REVIEWS: 1,349
+Very Good REVIEWS: 527 
+Average REVIEWS: 113 
+Poor REVIEWS: 29
+Terrible REVIEWS: 25 
+Family REVIEWS: 381 
+Couple REVIEWS: 915 
+Solo REVIEWS: 123 
+Business REVIEWS: 373 
+Friends REVIEWS: 156 
+Average Review Rating: 4.539892 
+
+HOTEL NAME: Boston Harbor Hotel
+Excellent REVIEWS: 1,129
+Very Good REVIEWS: 212 
+Average REVIEWS: 48 
+Poor REVIEWS: 17
+Terrible REVIEWS: 14 
+Family REVIEWS: 327 
+Couple REVIEWS: 524 
+Solo REVIEWS: 64 
+Business REVIEWS: 294 
+Friends REVIEWS: 78 
+Average Review Rating: 4.707746 
+
+HOTEL NAME: Fairmont Copley Plaza, Boston
+Excellent REVIEWS: 1,218
+Very Good REVIEWS: 511 
+Average REVIEWS: 189 
+Poor REVIEWS: 83
+Terrible REVIEWS: 35 
+Family REVIEWS: 427 
+Couple REVIEWS: 673 
+Solo REVIEWS: 85 
+Business REVIEWS: 584 
+Friends REVIEWS: 122 
+Average Review Rating: 4.372299 
+
+HOTEL NAME: Boston Marriott Copley Place
+Excellent REVIEWS: 702
+Very Good REVIEWS: 1,023 
+Average REVIEWS: 373 
+Poor REVIEWS: 110
+Terrible REVIEWS: 43 
+Family REVIEWS: 474 
+Couple REVIEWS: 483 
+Solo REVIEWS: 100 
+Business REVIEWS: 842 
+Friends REVIEWS: 147 
+Average Review Rating: 3.991115 
+
+HOTEL NAME: Lenox Hotel
+Excellent REVIEWS: 2,031
+Very Good REVIEWS: 516 
+Average REVIEWS: 113 
+Poor REVIEWS: 45
+Terrible REVIEWS: 20 
+Family REVIEWS: 687 
+Couple REVIEWS: 1043 
+Solo REVIEWS: 145 
+Business REVIEWS: 404 
+Friends REVIEWS: 241 
+Average Review Rating: 4.648807 
+
+HOTEL NAME: Courtyard by Marriott Boston Copley Square
+Excellent REVIEWS: 918
+Very Good REVIEWS: 339 
+Average REVIEWS: 56 
+Poor REVIEWS: 14
+Terrible REVIEWS: 14 
+Family REVIEWS: 342 
+Couple REVIEWS: 322 
+Solo REVIEWS: 83 
+Business REVIEWS: 416 
+Friends REVIEWS: 98 
+Average Review Rating: 4.590604 
+
+HOTEL NAME: enVision Hotel Boston
+Excellent REVIEWS: 306
+Very Good REVIEWS: 114 
+Average REVIEWS: 25 
+Poor REVIEWS: 8
+Terrible REVIEWS: 1 
+Family REVIEWS: 134 
+Couple REVIEWS: 126 
+Solo REVIEWS: 38 
+Business REVIEWS: 81 
+Friends REVIEWS: 36 
+Average Review Rating: 4.577093 
+
+HOTEL NAME: The Midtown Hotel
+Excellent REVIEWS: 425
+Very Good REVIEWS: 882 
+Average REVIEWS: 461 
+Poor REVIEWS: 160
+Terrible REVIEWS: 76 
+Family REVIEWS: 607 
+Couple REVIEWS: 434 
+Solo REVIEWS: 155 
+Business REVIEWS: 393 
+Friends REVIEWS: 311 
+Average Review Rating: 3.708583 
+
+HOTEL NAME: Boston Hotel Buckminster
+Excellent REVIEWS: 189
+Very Good REVIEWS: 351 
+Average REVIEWS: 155 
+Poor REVIEWS: 72
+Terrible REVIEWS: 77 
+Family REVIEWS: 188 
+Couple REVIEWS: 295 
+Solo REVIEWS: 56 
+Business REVIEWS: 105 
+Friends REVIEWS: 96 
+Average Review Rating: 3.595972 
+
+HOTEL NAME: Embassy Suites by Hilton Boston - at Logan Airport
+Excellent REVIEWS: 580
+Very Good REVIEWS: 601 
+Average REVIEWS: 277 
+Poor REVIEWS: 85
+Terrible REVIEWS: 49 
+Family REVIEWS: 516 
+Couple REVIEWS: 372 
+Solo REVIEWS: 97 
+Business REVIEWS: 386 
+Friends REVIEWS: 102 
+Average Review Rating: 3.991206 
+
+HOTEL NAME: The Liberty Hotel
+Excellent REVIEWS: 533
+Very Good REVIEWS: 292 
+Average REVIEWS: 115 
+Poor REVIEWS: 43
+Terrible REVIEWS: 40 
+Family REVIEWS: 196 
+Couple REVIEWS: 365 
+Solo REVIEWS: 36 
+Business REVIEWS: 236 
+Friends REVIEWS: 94 
+Average Review Rating: 4.207234 
+
+HOTEL NAME: Harborside Inn
+Excellent REVIEWS: 435
+Very Good REVIEWS: 499 
+Average REVIEWS: 103 
+Poor REVIEWS: 51
+Terrible REVIEWS: 43 
+Family REVIEWS: 106 
+Couple REVIEWS: 584 
+Solo REVIEWS: 78 
+Business REVIEWS: 140 
+Friends REVIEWS: 84 
+Average Review Rating: 4.089302 
+
+HOTEL NAME: DoubleTree Club by Hilton Hotel Boston Bayside
+Excellent REVIEWS: 320
+Very Good REVIEWS: 392 
+Average REVIEWS: 245 
+Poor REVIEWS: 87
+Terrible REVIEWS: 40 
+Family REVIEWS: 266 
+Couple REVIEWS: 274 
+Solo REVIEWS: 86 
+Business REVIEWS: 295 
+Friends REVIEWS: 86 
+Average Review Rating: 3.797970 
+
+HOTEL NAME: The Langham, Boston
+Excellent REVIEWS: 939
+Very Good REVIEWS: 431 
+Average REVIEWS: 128 
+Poor REVIEWS: 44
+Terrible REVIEWS: 34 
+Family REVIEWS: 295 
+Couple REVIEWS: 635 
+Solo REVIEWS: 63 
+Business REVIEWS: 349 
+Friends REVIEWS: 96 
+Average Review Rating: 4.394036 
+
+HOTEL NAME: Boston Marriott Long Wharf
+Excellent REVIEWS: 802
+Very Good REVIEWS: 548 
+Average REVIEWS: 167 
+Poor REVIEWS: 62
+Terrible REVIEWS: 28 
+Family REVIEWS: 551 
+Couple REVIEWS: 441 
+Solo REVIEWS: 41 
+Business REVIEWS: 308 
+Friends REVIEWS: 125 
+Average Review Rating: 4.265713 
+
+HOTEL NAME: XV Beacon
+Excellent REVIEWS: 699
+Very Good REVIEWS: 154 
+Average REVIEWS: 28 
+Poor REVIEWS: 27
+Terrible REVIEWS: 14 
+Family REVIEWS: 128 
+Couple REVIEWS: 480 
+Solo REVIEWS: 45 
+Business REVIEWS: 135 
+Friends REVIEWS: 46 
+Average Review Rating: 4.623644 
+
+HOTEL NAME: Hilton Boston Downtown / Faneuil Hall
+Excellent REVIEWS: 422
+Very Good REVIEWS: 473 
+Average REVIEWS: 199 
+Poor REVIEWS: 58
+Terrible REVIEWS: 39 
+Family REVIEWS: 275 
+Couple REVIEWS: 366 
+Solo REVIEWS: 37 
+Business REVIEWS: 309 
+Friends REVIEWS: 129 
+Average Review Rating: 3.991604 
+
+HOTEL NAME: Loews Boston Hotel
+Excellent REVIEWS: 634
+Very Good REVIEWS: 285 
+Average REVIEWS: 71 
+Poor REVIEWS: 20
+Terrible REVIEWS: 6 
+Family REVIEWS: 227 
+Couple REVIEWS: 376 
+Solo REVIEWS: 31 
+Business REVIEWS: 193 
+Friends REVIEWS: 106 
+Average Review Rating: 4.497047 
+
+HOTEL NAME: The Verb Hotel
+Excellent REVIEWS: 468
+Very Good REVIEWS: 160 
+Average REVIEWS: 39 
+Poor REVIEWS: 8
+Terrible REVIEWS: 8 
+Family REVIEWS: 161 
+Couple REVIEWS: 212 
+Solo REVIEWS: 32 
+Business REVIEWS: 95 
+Friends REVIEWS: 123 
+Average Review Rating: 4.569546 
+
+HOTEL NAME: W Boston
+Excellent REVIEWS: 625
+Very Good REVIEWS: 316 
+Average REVIEWS: 124 
+Poor REVIEWS: 57
+Terrible REVIEWS: 33 
+Family REVIEWS: 181 
+Couple REVIEWS: 407 
+Solo REVIEWS: 78 
+Business REVIEWS: 298 
+Friends REVIEWS: 121 
+Average Review Rating: 4.249351 
+
+HOTEL NAME: Holiday Inn Express Boston
+Excellent REVIEWS: 142
+Very Good REVIEWS: 242 
+Average REVIEWS: 88 
+Poor REVIEWS: 29
+Terrible REVIEWS: 23 
+Family REVIEWS: 138 
+Couple REVIEWS: 181 
+Solo REVIEWS: 28 
+Business REVIEWS: 80 
+Friends REVIEWS: 51 
+Average Review Rating: 3.860687 
+
+HOTEL NAME: Taj Boston
+Excellent REVIEWS: 652
+Very Good REVIEWS: 428 
+Average REVIEWS: 174 
+Poor REVIEWS: 92
+Terrible REVIEWS: 46 
+Family REVIEWS: 277 
+Couple REVIEWS: 535 
+Solo REVIEWS: 80 
+Business REVIEWS: 316 
+Friends REVIEWS: 104 
+Average Review Rating: 4.112069 
+
+HOTEL NAME: The Bostonian Boston
+Excellent REVIEWS: 539
+Very Good REVIEWS: 426 
+Average REVIEWS: 132 
+Poor REVIEWS: 57
+Terrible REVIEWS: 34 
+Family REVIEWS: 226 
+Couple REVIEWS: 503 
+Solo REVIEWS: 62 
+Business REVIEWS: 180 
+Friends REVIEWS: 87 
+Average Review Rating: 4.160774 
+
+HOTEL NAME: Residence Inn Boston Back Bay / Fenway
+Excellent REVIEWS: 663
+Very Good REVIEWS: 223 
+Average REVIEWS: 39 
+Poor REVIEWS: 10
+Terrible REVIEWS: 5 
+Family REVIEWS: 408 
+Couple REVIEWS: 162 
+Solo REVIEWS: 28 
+Business REVIEWS: 171 
+Friends REVIEWS: 69 
+Average Review Rating: 4.626596 
+
+HOTEL NAME: Hilton Boston Back Bay
+Excellent REVIEWS: 713
+Very Good REVIEWS: 819 
+Average REVIEWS: 345 
+Poor REVIEWS: 120
+Terrible REVIEWS: 47 
+Family REVIEWS: 502 
+Couple REVIEWS: 543 
+Solo REVIEWS: 114 
+Business REVIEWS: 601 
+Friends REVIEWS: 149 
+Average Review Rating: 3.993640 
+
+HOTEL NAME: Hyatt Regency Boston
+Excellent REVIEWS: 924
+Very Good REVIEWS: 822 
+Average REVIEWS: 400 
+Poor REVIEWS: 149
+Terrible REVIEWS: 67 
+Family REVIEWS: 515 
+Couple REVIEWS: 687 
+Solo REVIEWS: 115 
+Business REVIEWS: 620 
+Friends REVIEWS: 188 
+Average Review Rating: 4.010584 
+
+HOTEL NAME: The Boxer Boston
+Excellent REVIEWS: 391
+Very Good REVIEWS: 190 
+Average REVIEWS: 55 
+Poor REVIEWS: 14
+Terrible REVIEWS: 9 
+Family REVIEWS: 110 
+Couple REVIEWS: 274 
+Solo REVIEWS: 33 
+Business REVIEWS: 107 
+Friends REVIEWS: 90 
+Average Review Rating: 4.426404 
+
+HOTEL NAME: Hilton Boston Logan Airport
+Excellent REVIEWS: 822
+Very Good REVIEWS: 1,047 
+Average REVIEWS: 384 
+Poor REVIEWS: 106
+Terrible REVIEWS: 67 
+Family REVIEWS: 522 
+Couple REVIEWS: 644 
+Solo REVIEWS: 233 
+Business REVIEWS: 753 
+Friends REVIEWS: 99 
+Average Review Rating: 4.010305 
+
+HOTEL NAME: Hampton Inn &amp; Suites Boston Crosstown Center
+Excellent REVIEWS: 272
+Very Good REVIEWS: 262 
+Average REVIEWS: 116 
+Poor REVIEWS: 45
+Terrible REVIEWS: 27 
+Family REVIEWS: 239 
+Couple REVIEWS: 115 
+Solo REVIEWS: 64 
+Business REVIEWS: 216 
+Friends REVIEWS: 37 
+Average Review Rating: 3.979224 
+
+HOTEL NAME: Chandler Inn
+Excellent REVIEWS: 269
+Very Good REVIEWS: 410 
+Average REVIEWS: 121 
+Poor REVIEWS: 49
+Terrible REVIEWS: 29 
+Family REVIEWS: 85 
+Couple REVIEWS: 367 
+Solo REVIEWS: 118 
+Business REVIEWS: 139 
+Friends REVIEWS: 99 
+Average Review Rating: 3.957859 
+
+HOTEL NAME: Copley House
+Excellent REVIEWS: 128
+Very Good REVIEWS: 156 
+Average REVIEWS: 65 
+Poor REVIEWS: 28
+Terrible REVIEWS: 38 
+Family REVIEWS: 95 
+Couple REVIEWS: 132 
+Solo REVIEWS: 42 
+Business REVIEWS: 66 
+Friends REVIEWS: 47 
+Average Review Rating: 3.742169 
+
+HOTEL NAME: The Westin Boston Waterfront
+Excellent REVIEWS: 806
+Very Good REVIEWS: 746 
+Average REVIEWS: 285 
+Poor REVIEWS: 90
+Terrible REVIEWS: 54 
+Family REVIEWS: 280 
+Couple REVIEWS: 434 
+Solo REVIEWS: 122 
+Business REVIEWS: 948 
+Friends REVIEWS: 128 
+Average Review Rating: 4.090358 
+
+HOTEL NAME: Copley Square Hotel
+Excellent REVIEWS: 622
+Very Good REVIEWS: 397 
+Average REVIEWS: 118 
+Poor REVIEWS: 34
+Terrible REVIEWS: 20 
+Family REVIEWS: 216 
+Couple REVIEWS: 473 
+Solo REVIEWS: 100 
+Business REVIEWS: 262 
+Friends REVIEWS: 93 
+Average Review Rating: 4.315701 
+
+HOTEL NAME: Marriott&#39;s Custom House
+Excellent REVIEWS: 446
+Very Good REVIEWS: 162 
+Average REVIEWS: 13 
+Poor REVIEWS: 13
+Terrible REVIEWS: 12 
+Family REVIEWS: 249 
+Couple REVIEWS: 218 
+Solo REVIEWS: 16 
+Business REVIEWS: 49 
+Friends REVIEWS: 34 
+Average Review Rating: 4.574303 
+
+HOTEL NAME: DoubleTree Suites by Hilton Boston-Cambridge
+Excellent REVIEWS: 469
+Very Good REVIEWS: 496 
+Average REVIEWS: 169 
+Poor REVIEWS: 71
+Terrible REVIEWS: 41 
+Family REVIEWS: 438 
+Couple REVIEWS: 236 
+Solo REVIEWS: 72 
+Business REVIEWS: 340 
+Friends REVIEWS: 83 
+Average Review Rating: 4.028090 
+
+HOTEL NAME: Residence Inn by Marriott Boston Harbor on Tudor Wharf
+Excellent REVIEWS: 362
+Very Good REVIEWS: 219 
+Average REVIEWS: 52 
+Poor REVIEWS: 16
+Terrible REVIEWS: 6 
+Family REVIEWS: 258 
+Couple REVIEWS: 167 
+Solo REVIEWS: 27 
+Business REVIEWS: 99 
+Friends REVIEWS: 46 
+Average Review Rating: 4.396947 
+
+HOTEL NAME: DoubleTree by Hilton Hotel Boston - Downtown
+Excellent REVIEWS: 340
+Very Good REVIEWS: 273 
+Average REVIEWS: 98 
+Poor REVIEWS: 24
+Terrible REVIEWS: 15 
+Family REVIEWS: 190 
+Couple REVIEWS: 203 
+Solo REVIEWS: 26 
+Business REVIEWS: 222 
+Friends REVIEWS: 76 
+Average Review Rating: 4.198667 
+
+HOTEL NAME: Colonnade Hotel
+Excellent REVIEWS: 1,518
+Very Good REVIEWS: 564 
+Average REVIEWS: 175 
+Poor REVIEWS: 71
+Terrible REVIEWS: 53 
+Family REVIEWS: 547 
+Couple REVIEWS: 697 
+Solo REVIEWS: 114 
+Business REVIEWS: 617 
+Friends REVIEWS: 236 
+Average Review Rating: 4.437631 
+
+HOTEL NAME: Eliot Hotel
+Excellent REVIEWS: 575
+Very Good REVIEWS: 224 
+Average REVIEWS: 63 
+Poor REVIEWS: 33
+Terrible REVIEWS: 23 
+Family REVIEWS: 279 
+Couple REVIEWS: 259 
+Solo REVIEWS: 41 
+Business REVIEWS: 145 
+Friends REVIEWS: 90 
+Average Review Rating: 4.410675 
+
+HOTEL NAME: Club Quarters Hotel in Boston
+Excellent REVIEWS: 569
+Very Good REVIEWS: 444 
+Average REVIEWS: 148 
+Poor REVIEWS: 55
+Terrible REVIEWS: 42 
+Family REVIEWS: 145 
+Couple REVIEWS: 431 
+Solo REVIEWS: 115 
+Business REVIEWS: 304 
+Friends REVIEWS: 129 
+Average Review Rating: 4.147059 
+
+HOTEL NAME: Four Seasons Hotel Boston
+Excellent REVIEWS: 991
+Very Good REVIEWS: 167 
+Average REVIEWS: 47 
+Poor REVIEWS: 26
+Terrible REVIEWS: 15 
+Family REVIEWS: 370 
+Couple REVIEWS: 313 
+Solo REVIEWS: 48 
+Business REVIEWS: 385 
+Friends REVIEWS: 60 
+Average Review Rating: 4.679775 
+
+HOTEL NAME: Wyndham Boston Beacon Hill
+Excellent REVIEWS: 498
+Very Good REVIEWS: 572 
+Average REVIEWS: 286 
+Poor REVIEWS: 103
+Terrible REVIEWS: 52 
+Family REVIEWS: 533 
+Couple REVIEWS: 257 
+Solo REVIEWS: 133 
+Business REVIEWS: 413 
+Friends REVIEWS: 139 
+Average Review Rating: 3.900728 
+
+HOTEL NAME: Battery Wharf Hotel, Boston Waterfront
+Excellent REVIEWS: 637
+Very Good REVIEWS: 214 
+Average REVIEWS: 81 
+Poor REVIEWS: 25
+Terrible REVIEWS: 10 
+Family REVIEWS: 201 
+Couple REVIEWS: 443 
+Solo REVIEWS: 50 
+Business REVIEWS: 154 
+Friends REVIEWS: 71 
+Average Review Rating: 4.492244 
+
+HOTEL NAME: Newbury Guest House
+Excellent REVIEWS: 181
+Very Good REVIEWS: 176 
+Average REVIEWS: 44 
+Poor REVIEWS: 20
+Terrible REVIEWS: 16 
+Family REVIEWS: 63 
+Couple REVIEWS: 206 
+Solo REVIEWS: 26 
+Business REVIEWS: 49 
+Friends REVIEWS: 35 
+Average Review Rating: 4.112128 
+
+HOTEL NAME: Charlesmark Hotel
+Excellent REVIEWS: 340
+Very Good REVIEWS: 302 
+Average REVIEWS: 63 
+Poor REVIEWS: 33
+Terrible REVIEWS: 17 
+Family REVIEWS: 42 
+Couple REVIEWS: 302 
+Solo REVIEWS: 93 
+Business REVIEWS: 145 
+Friends REVIEWS: 46 
+Average Review Rating: 4.211921 
+
+HOTEL NAME: Mandarin Oriental, Boston
+Excellent REVIEWS: 376
+Very Good REVIEWS: 72 
+Average REVIEWS: 24 
+Poor REVIEWS: 8
+Terrible REVIEWS: 8 
+Family REVIEWS: 93 
+Couple REVIEWS: 134 
+Solo REVIEWS: 30 
+Business REVIEWS: 172 
+Friends REVIEWS: 33 
+Average Review Rating: 4.639344 
+
+HOTEL NAME: Courtyard by Marriott Boston Logan Airport
+Excellent REVIEWS: 134
+Very Good REVIEWS: 215 
+Average REVIEWS: 128 
+Poor REVIEWS: 39
+Terrible REVIEWS: 21 
+Family REVIEWS: 117 
+Couple REVIEWS: 135 
+Solo REVIEWS: 43 
+Business REVIEWS: 178 
+Friends REVIEWS: 33 
+Average Review Rating: 3.748603 
+
+HOTEL NAME: Onyx Hotel - a Kimpton Hotel
+Excellent REVIEWS: 546
+Very Good REVIEWS: 368 
+Average REVIEWS: 115 
+Poor REVIEWS: 44
+Terrible REVIEWS: 21 
+Family REVIEWS: 189 
+Couple REVIEWS: 424 
+Solo REVIEWS: 60 
+Business REVIEWS: 177 
+Friends REVIEWS: 113 
+Average Review Rating: 4.255941 
+
+HOTEL NAME: The Inn At St Botolph
+Excellent REVIEWS: 319
+Very Good REVIEWS: 107 
+Average REVIEWS: 22 
+Poor REVIEWS: 8
+Terrible REVIEWS: 2 
+Family REVIEWS: 82 
+Couple REVIEWS: 207 
+Solo REVIEWS: 52 
+Business REVIEWS: 89 
+Friends REVIEWS: 19 
+Average Review Rating: 4.600437 
+
+HOTEL NAME: BEST WESTERN PLUS Roundhouse Suites
+Excellent REVIEWS: 224
+Very Good REVIEWS: 314 
+Average REVIEWS: 133 
+Poor REVIEWS: 78
+Terrible REVIEWS: 43 
+Family REVIEWS: 286 
+Couple REVIEWS: 181 
+Solo REVIEWS: 20 
+Business REVIEWS: 140 
+Friends REVIEWS: 109 
+Average Review Rating: 3.755051 
+
+HOTEL NAME: Renaissance Boston Waterfront Hotel
+Excellent REVIEWS: 415
+Very Good REVIEWS: 450 
+Average REVIEWS: 122 
+Poor REVIEWS: 39
+Terrible REVIEWS: 15 
+Family REVIEWS: 169 
+Couple REVIEWS: 258 
+Solo REVIEWS: 62 
+Business REVIEWS: 438 
+Friends REVIEWS: 76 
+Average Review Rating: 4.163305 
+
+HOTEL NAME: Hotel 140
+Excellent REVIEWS: 494
+Very Good REVIEWS: 549 
+Average REVIEWS: 179 
+Poor REVIEWS: 77
+Terrible REVIEWS: 51 
+Family REVIEWS: 210 
+Couple REVIEWS: 516 
+Solo REVIEWS: 160 
+Business REVIEWS: 248 
+Friends REVIEWS: 151 
+Average Review Rating: 4.005926 
+
+HOTEL NAME: Holiday Inn Express Hotel &amp; Suites Boston Garden
+Excellent REVIEWS: 120
+Very Good REVIEWS: 149 
+Average REVIEWS: 73 
+Poor REVIEWS: 32
+Terrible REVIEWS: 21 
+Family REVIEWS: 96 
+Couple REVIEWS: 121 
+Solo REVIEWS: 19 
+Business REVIEWS: 62 
+Friends REVIEWS: 50 
+Average Review Rating: 3.797468 
+
+HOTEL NAME: Residence Inn Boston Downtown Seaport
+Excellent REVIEWS: 237
+Very Good REVIEWS: 76 
+Average REVIEWS: 9 
+Poor REVIEWS: 8
+Terrible REVIEWS: 2 
+Family REVIEWS: 96 
+Couple REVIEWS: 99 
+Solo REVIEWS: 5 
+Business REVIEWS: 79 
+Friends REVIEWS: 24 
+Average Review Rating: 4.620482 
+
+HOTEL NAME: The Ritz-Carlton, Boston
+Excellent REVIEWS: 354
+Very Good REVIEWS: 122 
+Average REVIEWS: 59 
+Poor REVIEWS: 41
+Terrible REVIEWS: 12 
+Family REVIEWS: 156 
+Couple REVIEWS: 144 
+Solo REVIEWS: 18 
+Business REVIEWS: 157 
+Friends REVIEWS: 46 
+Average Review Rating: 4.301020 
+
+HOTEL NAME: The Inn at Longwood Medical
+Excellent REVIEWS: 421
+Very Good REVIEWS: 209 
+Average REVIEWS: 117 
+Poor REVIEWS: 53
+Terrible REVIEWS: 46 
+Family REVIEWS: 314 
+Couple REVIEWS: 122 
+Solo REVIEWS: 75 
+Business REVIEWS: 225 
+Friends REVIEWS: 62 
+Average Review Rating: 4.070922 
+
+HOTEL NAME: Ames Boston Hotel
+Excellent REVIEWS: 486
+Very Good REVIEWS: 274 
+Average REVIEWS: 94 
+Poor REVIEWS: 43
+Terrible REVIEWS: 14 
+Family REVIEWS: 103 
+Couple REVIEWS: 436 
+Solo REVIEWS: 70 
+Business REVIEWS: 177 
+Friends REVIEWS: 75 
+Average Review Rating: 4.289791 
+
+HOTEL NAME: BEST WESTERN University Hotel Boston-Brighton
+Excellent REVIEWS: 125
+Very Good REVIEWS: 171 
+Average REVIEWS: 91 
+Poor REVIEWS: 42
+Terrible REVIEWS: 26 
+Family REVIEWS: 212 
+Couple REVIEWS: 75 
+Solo REVIEWS: 31 
+Business REVIEWS: 71 
+Friends REVIEWS: 34 
+Average Review Rating: 3.718681 
+
+HOTEL NAME: Courtyard Boston-South Boston
+Excellent REVIEWS: 114
+Very Good REVIEWS: 186 
+Average REVIEWS: 62 
+Poor REVIEWS: 29
+Terrible REVIEWS: 12 
+Family REVIEWS: 125 
+Couple REVIEWS: 108 
+Solo REVIEWS: 25 
+Business REVIEWS: 89 
+Friends REVIEWS: 39 
+Average Review Rating: 3.895782 
+
+HOTEL NAME: Beacon Hill Hotel and Bistro
+Excellent REVIEWS: 78
+Very Good REVIEWS: 54 
+Average REVIEWS: 17 
+Poor REVIEWS: 13
+Terrible REVIEWS: 5 
+Family REVIEWS: 18 
+Couple REVIEWS: 87 
+Solo REVIEWS: 16 
+Business REVIEWS: 16 
+Friends REVIEWS: 15 
+Average Review Rating: 4.119760 
+
+HOTEL NAME: Hilton Garden Inn Boston Logan Airport
+Excellent REVIEWS: 187
+Very Good REVIEWS: 45 
+Average REVIEWS: 7 
+Poor REVIEWS: 1
+Terrible REVIEWS: 0 
+Family REVIEWS: 77 
+Couple REVIEWS: 58 
+Solo REVIEWS: 14 
+Business REVIEWS: 67 
+Friends REVIEWS: 19 
+Average Review Rating: 4.741667 
+
+HOTEL NAME: The Godfrey Hotel Boston
+Excellent REVIEWS: 156
+Very Good REVIEWS: 32 
+Average REVIEWS: 12 
+Poor REVIEWS: 2
+Terrible REVIEWS: 0 
+Family REVIEWS: 43 
+Couple REVIEWS: 64 
+Solo REVIEWS: 10 
+Business REVIEWS: 54 
+Friends REVIEWS: 26 
+Average Review Rating: 4.693069 
+
+HOTEL NAME: The Envoy Hotel, Autograph Collection
+Excellent REVIEWS: 74
+Very Good REVIEWS: 31 
+Average REVIEWS: 10 
+Poor REVIEWS: 11
+Terrible REVIEWS: 1 
+Family REVIEWS: 15 
+Couple REVIEWS: 54 
+Solo REVIEWS: 2 
+Business REVIEWS: 44 
+Friends REVIEWS: 10 
+Average Review Rating: 4.307087 
+
+HOTEL NAME: Courtyard Boston Downtown
+Excellent REVIEWS: 105
+Very Good REVIEWS: 246 
+Average REVIEWS: 268 
+Poor REVIEWS: 153
+Terrible REVIEWS: 88 
+Family REVIEWS: 136 
+Couple REVIEWS: 235 
+Solo REVIEWS: 71 
+Business REVIEWS: 259 
+Friends REVIEWS: 60 
+Average Review Rating: 3.147674 
+
+HOTEL NAME: Comfort Inn - Boston
+Excellent REVIEWS: 64
+Very Good REVIEWS: 120 
+Average REVIEWS: 100 
+Poor REVIEWS: 39
+Terrible REVIEWS: 37 
+Family REVIEWS: 94 
+Couple REVIEWS: 102 
+Solo REVIEWS: 25 
+Business REVIEWS: 49 
+Friends REVIEWS: 44 
+Average Review Rating: 3.375000 
+
+HOTEL NAME: Aloft Boston Seaport
+Excellent REVIEWS: 6
+Very Good REVIEWS: 8 
+Average REVIEWS: 2 
+Poor REVIEWS: 1
+Terrible REVIEWS: 1 
+Family REVIEWS: 2 
+Couple REVIEWS: 2 
+Solo REVIEWS: 2 
+Business REVIEWS: 11 
+Friends REVIEWS: 1 
+Average Review Rating: 3.944444 
+
+HOTEL NAME: Boston Park Plaza
+Excellent REVIEWS: 918
+Very Good REVIEWS: 1,603 
+Average REVIEWS: 1,253 
+Poor REVIEWS: 839
+Terrible REVIEWS: 657 
+Family REVIEWS: 802 
+Couple REVIEWS: 1447 
+Solo REVIEWS: 371 
+Business REVIEWS: 1664 
+Friends REVIEWS: 483 
+Average Review Rating: 3.244023 
+
+HOTEL NAME: Element Boston Seaport
+Excellent REVIEWS: 4
+Very Good REVIEWS: 5 
+Average REVIEWS: 0 
+Poor REVIEWS: 0
+Terrible REVIEWS: 0 
+Family REVIEWS: 1 
+Couple REVIEWS: 1 
+Solo REVIEWS: 2 
+Business REVIEWS: 4 
+Friends REVIEWS: 1 
+Average Review Rating: 4.444444 
+
+HOTEL NAME: The Boston Common Hotel and Conference Center
+Excellent REVIEWS: 59
+Very Good REVIEWS: 197 
+Average REVIEWS: 188 
+Poor REVIEWS: 90
+Terrible REVIEWS: 48 
+Family REVIEWS: 103 
+Couple REVIEWS: 206 
+Solo REVIEWS: 49 
+Business REVIEWS: 114 
+Friends REVIEWS: 56 
+Average Review Rating: 3.221649 
+
+HOTEL NAME: Milner Hotel
+Excellent REVIEWS: 23
+Very Good REVIEWS: 115 
+Average REVIEWS: 87 
+Poor REVIEWS: 38
+Terrible REVIEWS: 60 
+Family REVIEWS: 36 
+Couple REVIEWS: 92 
+Solo REVIEWS: 66 
+Business REVIEWS: 63 
+Friends REVIEWS: 25 
+Average Review Rating: 3.009288 
+
+HOTEL NAME: Constitution Inn
+Excellent REVIEWS: 69
+Very Good REVIEWS: 137 
+Average REVIEWS: 127 
+Poor REVIEWS: 77
+Terrible REVIEWS: 72 
+Family REVIEWS: 132 
+Couple REVIEWS: 126 
+Solo REVIEWS: 36 
+Business REVIEWS: 56 
+Friends REVIEWS: 70 
+Average Review Rating: 3.112033 
+
+HOTEL NAME: Ramada Boston
+Excellent REVIEWS: 158
+Very Good REVIEWS: 284 
+Average REVIEWS: 312 
+Poor REVIEWS: 218
+Terrible REVIEWS: 172 
+Family REVIEWS: 384 
+Couple REVIEWS: 228 
+Solo REVIEWS: 105 
+Business REVIEWS: 212 
+Friends REVIEWS: 149 
+Average Review Rating: 3.033217 
+
+HOTEL NAME: Days Hotel Boston
+Excellent REVIEWS: 22
+Very Good REVIEWS: 47 
+Average REVIEWS: 82 
+Poor REVIEWS: 63
+Terrible REVIEWS: 46 
+Family REVIEWS: 81 
+Couple REVIEWS: 39 
+Solo REVIEWS: 20 
+Business REVIEWS: 66 
+Friends REVIEWS: 25 
+Average Review Rating: 2.753846 
+
+HOTEL NAME: Americas Best Value Inn
+Excellent REVIEWS: 2
+Very Good REVIEWS: 2 
+Average REVIEWS: 7 
+Poor REVIEWS: 1
+Terrible REVIEWS: 4 
+Family REVIEWS: 4 
+Couple REVIEWS: 2 
+Solo REVIEWS: 1 
+Business REVIEWS: 2 
+Friends REVIEWS: 3 
+Average Review Rating: 2.812500 
+
